@@ -2,7 +2,9 @@
 using DataAccessLayer.Contexts;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -23,7 +25,13 @@ namespace DataAccessLayer.Repositories
             return context.Set<T>().ToList();
         }
 
-        public T GetById(int id)
+		public ICollection<T> GetAll(Expression<Func<T, bool>> filter)
+		{
+			using var context = new MyAppDbContext();
+            return context.Set<T>().Where(filter).ToList();
+		}
+
+		public T GetById(int id)
         {
             using var context = new MyAppDbContext();
             return context.Set<T>().Find(id);

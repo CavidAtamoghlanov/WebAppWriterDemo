@@ -9,5 +9,6 @@ namespace DataAccessLayer.Abstracts
 {
     public interface IBlogDal:IGenericDal<Blog>
     {
+        ICollection<Blog> GetAllWithCategory();
     }
 }

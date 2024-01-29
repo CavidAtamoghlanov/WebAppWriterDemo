@@ -158,3 +158,9 @@ C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoP
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\NavigationMenu.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
