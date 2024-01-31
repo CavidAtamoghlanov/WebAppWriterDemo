@@ -16,6 +16,7 @@ namespace BusinessLayer.Abstracts
 		Blog GetById(int id);
 
 		ICollection<Blog> GetAllWithCategory();
+		ICollection<Blog> GetBlogListByWriter(int id);
 		
 	}
 }

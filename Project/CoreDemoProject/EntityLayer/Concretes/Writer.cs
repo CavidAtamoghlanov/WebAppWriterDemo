@@ -20,6 +20,7 @@ namespace EntityLayer.Concretes
         public bool WriterStatus { get; set; }
 
         // Writer has many Blogs
+        public ICollection<Blog> Blogs { get; set; } 
    
     }
 }

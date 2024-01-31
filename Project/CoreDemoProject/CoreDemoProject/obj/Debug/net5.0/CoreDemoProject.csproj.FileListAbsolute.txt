@@ -164,3 +164,12 @@ C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoP
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\CoreDemoProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs

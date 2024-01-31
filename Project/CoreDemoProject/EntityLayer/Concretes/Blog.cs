@@ -22,9 +22,11 @@ namespace EntityLayer.Concretes
 
         // Foreign Key With
         public int CategoryID { get; set; }
+        public int? WriterID { get; set; }
 
         // Navigation Property
-        public Category Category { get; set; }       
+        public Category Category { get; set; } 
+        public Writer Writer { get; set; }
         public ICollection<Comment> Comments { get; set; }
     }
 }
