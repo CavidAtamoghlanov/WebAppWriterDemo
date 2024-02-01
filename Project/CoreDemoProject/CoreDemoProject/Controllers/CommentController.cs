@@ -1,6 +1,8 @@
 ﻿using BusinessLayer.Conctrets;
 using DataAccessLayer.MyEntityFramework;
+using EntityLayer.Concretes;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace CoreDemoProject.Controllers
 {
@@ -12,10 +14,23 @@ namespace CoreDemoProject.Controllers
             return View();
         }
 
+        [HttpGet]
         public PartialViewResult PartialAddComment()
         {
             return PartialView();
         }
+
+        [HttpPost]
+        public PartialViewResult PartialAddComment(Comment comment)
+        {
+            comment.CommentCreateDate = DateTime.Parse(System.DateTime.Now.ToShortDateString());
+            comment.CommentStatus = true;
+            comment.BlogID = 2;
+
+            commentManager.AddComment(comment);
+            return PartialView();
+        }
+
 
         public PartialViewResult CommentListByBlog(int id)
         {

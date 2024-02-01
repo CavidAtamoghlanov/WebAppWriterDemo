@@ -27,5 +27,6 @@ namespace DataAccessLayer.Contexts
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Writer> Writers { get; set; }
         public DbSet<Comment> Comments { get; set; }
+        public DbSet<NewLetter> NewLetters { get; set; }
     }
 }

@@ -173,3 +173,5 @@ C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoP
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\CoreDemoProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\NewsLetter\SubscribeMail.cshtml.g.cs
+C:\Users\atamoghlanov_j\Desktop\ASP.NET_Writer\Project\CoreDemoProject\CoreDemoProject\obj\Debug\net5.0\Razor\Views\ErrorPage\Error1.cshtml.g.cs
